@@ -1,1 +1,2 @@
 today is Friday
+abcdefg. this is part of the exercise we are doing in class.
